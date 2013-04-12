@@ -1,6 +1,5 @@
 package Hardware::SensorsParser;
 
-use 5.006;
 use strict;
 use warnings;
 
@@ -20,8 +19,6 @@ Version 0.01
 our $VERSION = '0.01';
 
 =head1 SYNOPSIS
-
-Perhaps a little code snippet.
 
     use Hardware::SensorsParser;
 
